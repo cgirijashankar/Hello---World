@@ -21,6 +21,7 @@ public class GUITest1 {
 			System.out.println("False");
 		}
 		
+		System.out.println("git test");
 		driver.close();
 		
 
